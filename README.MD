@@ -29,7 +29,7 @@
 
 - :zap: In my free time, I practice Muay Thai and currently playing Hogwarts Legacy.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/robert-ortiz-799a1592)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/robert-ortiz-799a1592)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title ="C++" alt="C++" width="40" height="40"/>&nbsp;
