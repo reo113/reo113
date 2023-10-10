@@ -21,7 +21,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I practice Muay Thai and currently playing Hogwarts Legacy.
+- :zap: In my free time, I practice Muay Thai and am currently playing Baldurs Gate 3.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
