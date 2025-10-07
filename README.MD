@@ -16,12 +16,12 @@
 <hr>
 :man_technologist: About Me :
 
-### :wave: I am a Computer Science Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at CSI.
-- :telescope: An aspiring Software Engineer and contributing my projects and skills in data analysis, visualization, and modeling.
+### :wave: I am a Computer Science Grad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from CSI. Interning @ Frigate https://github.com/robertortiz-frigate
+- :telescope: A Software Engineer and contributing my projects and skills in web development.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I practice Muay Thai and am currently playing Baldurs Gate 3.
+- :zap: In my free time, I practice Muay Thai and am currently watching Critical Role Season 4.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
